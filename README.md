@@ -85,9 +85,9 @@ hashTable.set("act", "Performance"); // Same hash value
 
 ```
 set()       Add/Update entry    O(1)
-get()       Retrieve value    O(1)
-delete()        Remove entry    O(1)
-clear()       Remove all entries    O(1)
+get()       Retrieve value      O(1)
+delete()    Remove entry        O(1)
+clear()     Remove all entries  O(1)
 ```
 
 🛠️ Implementation Details
