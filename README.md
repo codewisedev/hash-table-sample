@@ -40,7 +40,7 @@ class HashTable {
 }
 ```
 
-🎯 Hash Function
+### 🎯 Hash Function
 
 ```javascript
   _hash(key) {
@@ -90,15 +90,14 @@ delete()    Remove entry        O(1)
 clear()     Remove all entries  O(1)
 ```
 
-🛠️ Implementation Details
-📊 Performance Characteristics
+### 📊 Performance Characteristics
 
 ```
 Operation	Average Case	Worst Case
-Insert      O(1)        O(n)
-Lookup      O(1)        O(n)
-Delete      O(1)        O(n)
-Space     O(n)        O(n)
+Insert      O(1)            O(n)
+Lookup      O(1)            O(n)
+Delete      O(1)            O(n)
+Space       O(n)            O(n)
 ```
 
 Made by CodeWise
