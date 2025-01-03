@@ -94,10 +94,10 @@ clear()     Remove all entries  O(1)
 
 ```
 Operation	Average Case	Worst Case
-Insert            O(1)            O(n)
-Lookup            O(1)            O(n)
-Delete            O(1)            O(n)
-Space             O(n)            O(n)
+Insert          O(1)            O(n)
+Lookup          O(1)            O(n)
+Delete          O(1)            O(n)
+Space           O(n)            O(n)
 ```
 
 Made by CodeWise
